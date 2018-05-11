@@ -9,7 +9,7 @@ a = 0
 print(a)
 
 # re-declaring the variable as an character strings works
-a = 'guru99'
+a = 'Hola Barcelona!'
 print(a)
 
 # re-declaring the variable as a floating number works
